@@ -8,6 +8,7 @@
 - node index.js
 
 --------------------------
+--------------------------
 
 ## smart_contracts
 - npm init
@@ -25,13 +26,10 @@
 - npx hardhat compile
 
 ## smart_contracts
-- npx hardhat run --network sepolia scripts/deploy.js
+- npx hardhat run --network goerli scripts/deploy.js
 
 ## smart_contracts
 - npm install @nomiclabs/hardhat-etherscan
 
 ## smart_contracts
 - npx hardhat verify --network sepolia 0xC9a966cD7F478186B99AAb0a790a37D922C6Ca4F
-
-## smart_contracts
-- npm install alchemy-sdk"# NFT-Collection-on-Test-Opensea-with-Pinata" 
